@@ -9,10 +9,10 @@
 title-bold: JEST
 title-normal: Junior Enterprise of Sciences and Tech
 email: info@jest.pt
-description: A newcomer in the life sciences business.
+description: Providing solutions in life and data sciences.
 baseurl: "/jestpt.github.io" # the subpath of your site, e.g. /blog
 url: "http://jest.pt" # the base hostname & protocol for your site
-author: 
+author: JEST
 street_address: Department of Life Sciences
 city: Coimbra
 zip_code: 3000-406
