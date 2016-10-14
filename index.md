@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Ma JEST *hic* *hic*
+landing-title: Data Science services for Life Scientists
 description: 
 image: 
 author: 

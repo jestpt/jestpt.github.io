@@ -80,10 +80,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "R
 title-bold: JEST
 title-normal: Junior Enterprise of Sciences and Tech
 email: info@jest.pt
-description: Providing solutions in life and data sciences.
+description: A newcomer in the life sciences business.
 baseurl: "/jestpt.github.io" # the subpath of your site, e.g. /blog
 url: "http://jest.pt" # the base hostname & protocol for your site
-author: JEST
+author: 
 street_address: Department of Life Sciences
 city: Coimbra
 zip_code: 3000-406
