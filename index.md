@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Turning baldes into dreams blelele
+landing-title: Shuffling Wild Cards
 description: 
 image: 
 author: 
