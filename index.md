@@ -35,9 +35,9 @@ nav-menu:
 		<header class="major">
 			<h2>About</h2>
 		</header>
-		<p>Junior Enterprise for Science and Technology (JEST) – has as its purpose the understanding of interdisciplinary value and the commitment to ever evolving projects and ideas, aiming for the development of such in the fields of science and technology.</p>
-		<p>Cradled in the Faculty of Sciences and Technology of the University of Coimbra, JEST embraces the challenge of diverse data analysis and comprehension, designed and nurtured both for its members, who can get a useful complement to their academic formation as well as constantly progressing and challenging projects, professors, companies and research groups that are essential for science’s development and professional growth. Thus, under the flag of data science advancement - pedagogic, personal, professional and teambuilding wise - JEST sets both its starting line and its goals on its members, as well as any projects and entities that further down the timeline get involved with it.</p>
-		<p>To attain these goals JEST will privilege science over personal interests and creeds, since is its members’ belief that through team work and hard efforts, knowledge and experience can be acquired on a regular and mutually beneficial way. At an individual level, JEST members have ambitious goals. However, this is the fuel that drives the collective purpose as it was previously described. With an environment of equality and personal features optimization, JEST sets its tone as an original junior enterprise aiming at putting science through a data perspective as well as adding a science perspective to data.</p>
+		<p>JEST is the Junior Enterprise for Science and Technology – an organization whose purpose lies in the understanding of interdisciplinary value and the commitment to ever evolving projects and ideas.</p>
+		<p>Under the flag of data science progress - personal, professional and teambuilding wise – our organization sets both its starting line and its goals on its members, as well as any projects and entities that choose to get involved with JEST.</p>
+		<p>By creating conditions based on equality and ambition – both at an individual and collective level – JEST will help its associates acquire solid knowledge by learning and doing, while providing the necessary support and solutions to help external projects visualize life sciences through a data perspective.</p>
 		<ul class="actions">
 			<li><a href="landing.html" class="button next">Get Started</a></li>
 		</ul>
