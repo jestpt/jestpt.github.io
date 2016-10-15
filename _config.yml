@@ -7,18 +7,18 @@
 
 # Site settings
 title-bold: JEST
-title-normal: Junior Enterprise of Sciences and Tech
-title: JEST - Junior Enterprise of Sciences and Tech
+title-normal: Junior Enterprise for Science and Tech
+title: JEST - Junior Enterprise for Science and Tech
 email: info@jest.pt
 description: Providing data-based solutions for life sciences
 baseurl: "/jestpt.github.io" # the subpath of your site, e.g. /blog
 url: "http://jest.pt" # the base hostname & protocol for your site
-author: 
+author: João Coelho
 street_address: Department of Life Sciences
 city: Coimbra
 zip_code: 3000-406
 country: Portugal
-phone: (716) 555-5555 * edit
+phone: +351 918 369 801
 
 # Plugins
 gems:
