@@ -8,6 +8,7 @@
 # Site settings
 title-bold: JEST
 title-normal: Junior Enterprise of Sciences and Tech
+title: JEST - Junior Enterprise of Sciences and Tech
 email: info@jest.pt
 description: Providing data-based solutions for life sciences
 baseurl: "/jestpt.github.io" # the subpath of your site, e.g. /blog
