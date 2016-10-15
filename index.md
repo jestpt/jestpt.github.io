@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Shuffling Wild Cards
+landing-title: Wild Cards Shufflers
 description: 
 image: 
 author: 
