@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elements
+title: Partners
 ---
 
 <!-- Main -->
