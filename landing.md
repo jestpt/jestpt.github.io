@@ -33,39 +33,39 @@ nav-menu: yes
 		</header>
 		<p>
 <p><b>Analysis</b></p>
-<p>Data Science Services </p>
-<p>Machine Learning</p>
-<p>Deep Learning</p>
-<p>Neural Networks</p>
-<p>Cognitive Computing</p>
-<p>Predictive Analytics</p>
-<p>Prescriptive Analytics</p>
-<p>Decision Optimizing Processes</p>
-<p>Data Mining</p>
-<p>Social Networking Assessment</p>
-<p>Results interpretation</p>
-<p>Results Visualization for research and communication purposes</p>
-<p>Research data processing</p>
-<p>Research programming and use of advanced statistical software packages (e.g., Python and R)</p>
+Data Science Services<br />
+Machine Learning<br />
+Deep Learning<br />
+Neural Networks<br />
+Cognitive Computing<br />
+Predictive Analytics <br />
+Prescriptive Analytics <br />
+Decision Optimizing Processes <br />
+Data Mining<br />
+Social Networking Assessment<br />
+Results interpretation<br />
+Results Visualization for research and communication purposes<br />
+Research data processing<br />
+Research programming and use of advanced statistical software packages (e.g., Python and R)<br />
 
-<p><b>	Consulting	</b></p>	
-<p>Research design</p>
-<p>Data Collection Methods</p>
-<p>Data Systematization and Organization</p>
-<p>Data Team Sharing</p>
-<p>Data Secure Storage</p>
-<p>Statistical Methods guidance</p>
-<p>Selection of research tools</p>
-<p>Selection of computational methods</p>
-<p>New and emerging research software packages and tools</p>
-
-
+<p><b>Consulting</b></p>	
+Research design<br />
+Data Collection Methods<br />
+Data Systematization and Organization<br />
+Data Team Sharing<br />
+Data Secure Storage<br />
+Statistical Methods guidance<br />
+Selection of research tools<br />
+Selection of computational methods<br />
+New and emerging research software packages and tools<br />
 
 
-<p><b>Event Organization</b></p>	
-<p>Scientific Meetings</p>
-<p>Field targeted workshops</p>
-<p>Students’ Academic Events: support and organization</p>
+
+
+<p><b>Event Organizing</b></p>
+Scientific Meetings<br />
+Field targeted workshops<br />
+Students’ Academic Events: support and organization<br />
 </p>
 	</div>
 </section>
