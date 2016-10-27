@@ -32,7 +32,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Services</h2>
 					</header>
-			<p>The <b>Junior Enterprise for Science and Technology </b> aims at providing efficient and reliable services.<br />Ranging from Data Science to Event Organization, it keeps the focus on supporting the relationshionships between the students, the University and the various streams of professional endeavours that might interest its members. <br /> When possible, JEST will also play cards on investigation fields, having ambition on both science participation and pedagogic formation.
+			<p align='justify'>The <b>Junior Enterprise for Science and Technology </b> aims at providing efficient and reliable services.<br />Ranging from Data Science to Event Organization, it keeps the focus on supporting the relationshionships between the students, the University and the various streams of professional endeavours that might interest its members. <br /> When possible, JEST will also play cards on investigation fields, having ambition on both science participation and pedagogic formation.
 			</p>
 
 <!-- Two -->
