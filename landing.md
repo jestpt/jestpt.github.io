@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Landing
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
+title: Services
+Junior Enterprise for Science and Technology aims at providing efficient and reliable services<br />Ranging from Data Science to Event Organization, it keeps the focus on supporting the relationshionships between the students, the University and the Market.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Landing</h1>
+			<h1>Services</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -30,48 +30,22 @@ nav-menu: yes
 	<div class="inner">
 		<header class="major">
 			<h2>Analysis</h2>
-		</header>
-Data Science Services<br />
-Machine Learning<br />
-Deep Learning<br />
-Neural Networks<br />
-Cognitive Computing<br />
-Predictive Analytics <br />
-Prescriptive Analytics <br />
-Decision Optimizing Processes <br />
-Data Mining<br />
-Social Networking Assessment<br />
-Results interpretation<br />
-Results Visualization for research and communication purposes<br />
-Research data processing<br />
-Research programming and use of advanced statistical software packages (e.g., Python and R)<br />
-		<p>
-
-<header class="major">
-			<h2>Consulting</h2>
-		</header>
-Research design<br />
-Data Collection Methods<br />
-Data Systematization and Organization<br />
-Data Team Sharing<br />
-Data Secure Storage<br />
-Statistical Methods guidance<br />
-Selection of research tools<br />
-Selection of computational methods<br />
-New and emerging research software packages and tools<br />
-		<p>
-<header class="major">
-			<h2>Event Organization</h2>
-		</header>
-Scientific Meetings<br />
-Field targeted workshops<br />
-Students’ Academic Events: support and organization<br />
-		<p>
-
-
-</p>
-	</div>
-</section>
+					</header>
+			<p>Data Science Services<br />
+			Machine Learning<br />
+			Deep Learning<br />
+			Neural Networks<br />
+			Cognitive Computing<br />
+			Predictive Analytics <br />
+			Prescriptive Analytics <br />
+			Decision Optimizing Processes <br />
+			Data Mining<br />
+			Social Networking Assessment<br />
+			Results interpretation<br />
+			Results Visualization for research and communication purposes<br />
+			Research data processing<br />
+			Research programming and use of advanced statistical software packages (e.g., Python and R)<br />
+			</p>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -82,9 +56,17 @@ Students’ Academic Events: support and organization<br />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Consulting</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Research design<br />
+					Data Collection Methods<br />
+					Data Systematization and Organization<br />
+					Data Team Sharing<br />
+					Data Secure Storage<br />
+					Statistical Methods guidance<br />
+					Selection of research tools<br />
+					Selection of computational methods<br />
+					New and emerging research software packages and tools<br /></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -98,9 +80,11 @@ Students’ Academic Events: support and organization<br />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Event Organization</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Scientific Meetings<br />
+					Field targeted workshops<br />
+					Students’ Academic Events: support and organization<br /></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
