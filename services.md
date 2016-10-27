@@ -32,7 +32,7 @@ nav-menu: yes
 		<header class="major">
 			<h2>Services</h2>
 					</header>
-			<p align='justify'>The <b>Junior Enterprise for Science and Technology </b> aims at providing efficient and reliable services.<br />Ranging from Data Science to Event Organization, it keeps the focus on supporting the relationshionships between the students, the University and the various streams of professional endeavours that might interest its members. <br /> When possible, JEST will also play cards on investigation fields, having ambition on both science participation and pedagogic formation.
+			<p align='justify'>The <b>Junior Enterprise for Science and Technology </b> aims at providing efficient and reliable services.<br />Ranging from Data Science to Event Organization, it keeps the focus on supporting the relationships between the students, the University and the various streams of professional endeavours that might interest its members. <br /> When possible, JEST will also play cards on investigation fields, having ambition on both science participation and pedagogic formation.
 			</p>
 
 <!-- Two -->
@@ -47,18 +47,10 @@ nav-menu: yes
 					<h3>Analysis</h3>
 				</header>
 				<p>Data Science Services<br />
-				Machine Learning<br />
-				Deep Learning<br />
-				Neural Networks<br />
-				Cognitive Computing<br />
-				Predictive Analytics <br />
-				Prescriptive Analytics <br />
-				Decision Optimizing Processes <br />
-				Data Mining<br />
+				Machine Learning and Data Mining <br />
 				Social Networking Assessment<br />
 				Results interpretation<br />
 				Results Visualization for research and communication purposes<br />
-				Research data processing<br />
 				Research programming and use of advanced statistical software packages (e.g., Python and R)<br /></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -76,13 +68,9 @@ nav-menu: yes
 					<h3>Consulting</h3>
 				</header>
 				<p>Research design<br />
-					Data Collection Methods<br />
 					Data Systematization and Organization<br />
 					Data Team Sharing<br />
-					Data Secure Storage<br />
-					Statistical Methods guidance<br />
-					Selection of research tools<br />
-					Selection of computational methods<br />
+					Experimental Design<br />
 					New and emerging research software packages and tools<br /></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -109,5 +97,3 @@ nav-menu: yes
 		</div>
 	</section>
 	
-
-</div>
