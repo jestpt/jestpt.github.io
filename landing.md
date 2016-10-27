@@ -1,7 +1,8 @@
 ---
 layout: landing
-title: Services
-Junior Enterprise for Science and Technology aims at providing efficient and reliable services<br />Ranging from Data Science to Event Organization, it keeps the focus on supporting the relationshionships between the students, the University and the Market.
+title: Landing
+landing-title: Services
+description: Junior Enterprise for Science and Technology aims at providing efficient and reliable services<br />Ranging from Data Science to Event Organization, it keeps the focus on supporting the relationshionships between the students, the University and the Market.
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
