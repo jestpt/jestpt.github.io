@@ -32,7 +32,7 @@ nav-menu: yes
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>
-	Analysis	
+<p><b>	**Analysis**	</b></p>
 Data Science Services
 Machine Learning
 Deep Learning
@@ -48,7 +48,7 @@ Results Visualization for research and communication purposes
 Research data processing
 Research programming and use of advanced statistical software packages (e.g., Python and R)
 
-	Consulting	
+<p><b>	**Consulting**</b></p>	
 Research design
 Data Collection Methods
 Data Systematization and Organization
@@ -62,7 +62,7 @@ New and emerging research software packages and tools
 
 
 
-	Event Organizing	
+	**Event Organizing**	
 Scientific Meetings
 Field targeted workshops
 Students’ Academic Events: support and organization
