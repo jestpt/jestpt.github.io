@@ -29,10 +29,8 @@ nav-menu: yes
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Analysis</h2>
 		</header>
-		<p>
-<p><b>Analysis</b></p>
 Data Science Services<br />
 Machine Learning<br />
 Deep Learning<br />
@@ -47,8 +45,11 @@ Results interpretation<br />
 Results Visualization for research and communication purposes<br />
 Research data processing<br />
 Research programming and use of advanced statistical software packages (e.g., Python and R)<br />
+		<p>
 
-<p><b>Consulting</b></p>	
+<header class="major">
+			<h2>Consulting</h2>
+		</header>
 Research design<br />
 Data Collection Methods<br />
 Data Systematization and Organization<br />
@@ -58,14 +59,16 @@ Statistical Methods guidance<br />
 Selection of research tools<br />
 Selection of computational methods<br />
 New and emerging research software packages and tools<br />
-
-
-
-
-<p><b>Event Organizing</b></p>
+		<p>
+<header class="major">
+			<h2>Event Organization</h2>
+		</header>
 Scientific Meetings<br />
 Field targeted workshops<br />
 Students’ Academic Events: support and organization<br />
+		<p>
+
+
 </p>
 	</div>
 </section>
