@@ -68,7 +68,7 @@ nav-menu: yes
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/consulting_1.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
