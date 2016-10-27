@@ -32,7 +32,7 @@ nav-menu: yes
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>
-<p><b>	Analysis	</p>
+<p><b>Analysis</b></p>
 <p>Data Science Services </p>
 <p>Machine Learning</p>
 <p>Deep Learning</p>
