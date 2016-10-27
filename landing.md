@@ -32,40 +32,40 @@ nav-menu: yes
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>
-<p><b>	**Analysis**	</b></p>
-Data Science Services
-Machine Learning
-Deep Learning
-Neural Networks
-Cognitive Computing
-Predictive Analytics 
-Prescriptive Analytics 
-Decision Optimizing Processes 
-Data Mining
-Social Networking Assessment
-Results interpretation
-Results Visualization for research and communication purposes
-Research data processing
-Research programming and use of advanced statistical software packages (e.g., Python and R)
+<p><b>	Analysis	</p>
+<p>Data Science Services </p>
+<p>Machine Learning</p>
+<p>Deep Learning</p>
+<p>Neural Networks</p>
+<p>Cognitive Computing</p>
+<p>Predictive Analytics</p>
+<p>Prescriptive Analytics</p>
+<p>Decision Optimizing Processes</p>
+<p>Data Mining</p>
+<p>Social Networking Assessment</p>
+<p>Results interpretation</p>
+<p>Results Visualization for research and communication purposes</p>
+<p>Research data processing</p>
+<p>Research programming and use of advanced statistical software packages (e.g., Python and R)</p>
 
-<p><b>	**Consulting**</b></p>	
-Research design
-Data Collection Methods
-Data Systematization and Organization
-Data Team Sharing
-Data Secure Storage
-Statistical Methods guidance
-Selection of research tools
-Selection of computational methods
-New and emerging research software packages and tools
-
-
+<p><b>	Consulting	</b></p>	
+<p>Research design</p>
+<p>Data Collection Methods</p>
+<p>Data Systematization and Organization</p>
+<p>Data Team Sharing</p>
+<p>Data Secure Storage</p>
+<p>Statistical Methods guidance</p>
+<p>Selection of research tools</p>
+<p>Selection of computational methods</p>
+<p>New and emerging research software packages and tools</p>
 
 
-	**Event Organizing**	
-Scientific Meetings
-Field targeted workshops
-Students’ Academic Events: support and organization
+
+
+<p><b>Event Organization</b></p>	
+<p>Scientific Meetings</p>
+<p>Field targeted workshops</p>
+<p>Students’ Academic Events: support and organization</p>
 </p>
 	</div>
 </section>
