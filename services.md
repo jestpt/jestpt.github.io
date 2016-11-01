@@ -3,7 +3,7 @@ layout: landing
 title: Services
 landing-title: Services
 description: Cards on the table
-image: <img style="display:block;" width="80%" height="50%" src="assets/images/University_Coimbra.jpg" alt="" data-position="center" />
+image: <img style="display:block;" width="20%" height="40%" src="assets/images/University_Coimbra.jpg" alt="" data-position="center" />
 nav-menu: yes
 ---
 
