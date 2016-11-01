@@ -2,8 +2,7 @@
 layout: post
 title: R Attack
 description: May the R be with you
-image: <img style="display:block;" width="40%" height="40%" src="assets/images/RStudio.png" alt="" data-position="middle center" />
-
+image: assets/images/RStudio.png
 ---
 
 R is a language designed for data science, comprising tools and methods that greatly favour the work for the most varied sciences, ranging from life sciences, math sciences, among any others.
