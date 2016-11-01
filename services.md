@@ -3,7 +3,7 @@ layout: landing
 title: Services
 landing-title: Services
 description: Cards on the table
-image: assets/images/pic07.jpg
+image: assets/images/University_Coimbra.jpg
 nav-menu: yes
 ---
 
@@ -80,7 +80,7 @@ nav-menu: yes
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/event-management.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
