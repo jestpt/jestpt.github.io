@@ -3,7 +3,7 @@ layout: landing
 title: Services
 landing-title: Services
 description: Cards on the table
-image: <img style="display:block;" width="20%" height="40%" src="assets/images/University_Coimbra.jpg" alt="" data-position="center" />
+image: <img style="display:block;" width="100%" height="100%" src="assets/images/University_Coimbra.jpg" alt="" data-position="center" />
 nav-menu: yes
 ---
 
@@ -39,7 +39,7 @@ nav-menu: yes
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img style="display:block;" width="auto" height="auto" src="assets/images/data_science_1.jpg" alt="" data-position="middle" />
+			<img style="display:block;" width="100%" height="auto" src="assets/images/data_science_1.jpg" alt="" data-position="middle" />
 		</a>
 		<div class="content">
 			<div class="inner">
