@@ -13,7 +13,7 @@ nav-menu:
 	<div class="inner">
 		<header class="major">
 			<!-- <h1>{{ page.landing-title }}</h1> -->
-			<img src="jestLogo.ong" height = "256" />
+			<img src="jestLogo.png" height = "256" />
 		</header>
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
