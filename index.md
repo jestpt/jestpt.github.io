@@ -13,7 +13,7 @@ nav-menu:
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>
-			<img style="display:block;" width="10%" height="10%" src="assets/images/jestLogo.jpg" alt="" data-position="middle center" />
+			<img style="display:block;" width="30%" height="30%" src="jestLogo.jpg" alt="" align = "right" />
 		</header>
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
