@@ -34,7 +34,6 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>About</h2>
 		</header>
 		<ul class="actions">
 			<li><a href="landing.html" class="button next">Get Started</a></li>
