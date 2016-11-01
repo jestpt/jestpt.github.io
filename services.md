@@ -39,7 +39,7 @@ nav-menu: yes
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img style="display:block;" width="100%" height="auto" src="assets/images/data_science_1.jpg" alt="" data-position="middle" />
+			<img style="display:block;" width="100%" height="auto" src="assets/images/data_science_1.jpg" alt="" data-position="middle center" />
 		</a>
 		<div class="content">
 			<div class="inner">
