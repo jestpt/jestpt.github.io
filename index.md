@@ -12,8 +12,8 @@ nav-menu:
 <section id="banner" class="major">
 	<div class="inner">
 		<header class="major">
-			<h1>{{ page.landing-title }}</h1>
-			<img style="display:block;" width="30%" height="30%" src="jestLogo.jpg" alt="" align = "right" />
+			<!-- <h1>{{ page.landing-title }}</h1> -->
+			<img src="jestLogo.ong" height = "256" />
 		</header>
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
