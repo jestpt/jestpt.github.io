@@ -80,7 +80,7 @@ nav-menu: yes
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/event-management.jpg" alt="" data-position="top center" />
+			<img style="display:block;" width="100%" height="100%" src="assets/images/event-management.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
