@@ -30,7 +30,7 @@ nav-menu:
 <!-- One -->
 {% include tiles.html %}
 
-<!-- Two -->
+<!-- Two 
 <section id="two">
 	<div class="inner">
 		<header class="major">
@@ -39,7 +39,7 @@ nav-menu:
 			<li><a href="landing.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>
 
