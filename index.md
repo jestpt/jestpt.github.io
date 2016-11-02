@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: Wild Cards Shufflers
 description: 
-image: 
+image: assets/images/home_bg.jpg
 author: 
 nav-menu: 
 ---
