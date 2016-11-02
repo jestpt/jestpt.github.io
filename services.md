@@ -39,7 +39,7 @@ nav-menu: yes
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img style="display:block;" width="100%" src="assets/images/analysis.jpg" alt="" data-position="middle center" />
+			<img style="display:block;" width="100%" height="100%" src="assets/images/analysis.jpg" alt="" data-position="middle center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -60,7 +60,7 @@ nav-menu: yes
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img style="display:block;" width="100%" src="assets/images/consulting.jpg" alt="" data-position="right center" />
+			<img style="display:block;" width="100%" height="100%" src="assets/images/consulting.jpg" alt="" data-position="right center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -80,7 +80,7 @@ nav-menu: yes
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img style="display:block;" width="100%" src="assets/images/events.jpg" alt="" data-position="top center" />
+			<img style="display:block;" width="100%" height="100%" src="assets/images/events.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
