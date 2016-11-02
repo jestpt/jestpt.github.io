@@ -33,14 +33,14 @@ tiles-count: 6
 
 # Social settings
 500px_url: 
-facebook_url: 
+facebook_url: https://www.facebook.com/UC.JEST/
 github_url: 
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
 linkedin_url: 
 pinterest_url: 
-slack_url: 
+slack_url: https://lifeatucteam.slack.com
 twitter_url: 
 
 # Build settings
