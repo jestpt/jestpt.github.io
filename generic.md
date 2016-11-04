@@ -1,8 +1,8 @@
 ---
 layout: post
 title: About
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: Meet Jest
+image: assets/images/02.png
 nav-menu: yes
 ---
 
