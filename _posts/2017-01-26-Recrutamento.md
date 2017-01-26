@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title: Recrutamento
-description: Achas que tens o que é preciso?
-image: assets/images/R_workshop.jpg
+title: Nobel Prizes
+description: The Nobel Ones
+image: assets/images/Nobel.jpg
 ---
 **Inscrições abertas**
 
@@ -16,5 +16,3 @@ Obrigado pela atenção, contamos contigo!
 
 
 A equipa da JEST.
-
-
