@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title: Recrutamento
-description: Recruiting UC students!
+description: Recruiting UC students
 image: assets/images/Recrutar.jpg
 ---
 **Inscrições abertas**
@@ -18,5 +18,3 @@ Obrigado pela atenção, contamos contigo!
 
 
 A equipa da JEST.
-
-
