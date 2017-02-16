@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 title: Home
 landing-title: Wild Cards Shufflers

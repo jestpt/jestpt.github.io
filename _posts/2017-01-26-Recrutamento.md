@@ -1,4 +1,10 @@
-﻿**Inscrições abertas**
+---
+layout: post
+title: Recrutamento
+description: Recruiting UC students
+image: assets/images/Recrutar.jpg
+---
+**Inscrições abertas**
 
 A JEST – Junior Enterprise for Science and Technology – é um projeto para constituição de uma Júnior Empresa de estudantes da Faculdade de Ciências e Tecnologia da Universidade de Coimbra. Este projeto tem por objetivo a exploração de data science como matéria de interesse emergente nas ciências e tecnologia e como ferramenta de apoio a trabalho experimental nestas áreas. Nesse âmbito, a JEST pretende assumir e desenvolver competências em data science no contexto da formação pedagógica e da consultoria para trabalhos científicos e empresariais.
 
@@ -8,5 +14,3 @@ As inscrições para o ano de 2017/2018 encontram-se atualmente encerradas, segu
 
 
 A equipa da JEST.
-
-
