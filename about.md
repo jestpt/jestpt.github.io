@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: Meet Jest
-image: assets\images\COVER-RECRUIT.png
+image: assets/images/COVERECRUIT.png
 nav-menu: yes
 ---
 
