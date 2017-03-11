@@ -1,11 +1,8 @@
 ﻿---
-layout: landing
+layout: page
 title: About
-landing-title:
 description: Meet Jest
-image: /assets/images/coverecruit.png
-author: 
-nav-menu: yes
+image: assets/images/coverecruit.png
 ---
 
 <p align='center'><b>JEST:</b> Junior Enterprise for Science and Technology</p>
