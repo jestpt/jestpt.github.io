@@ -6,6 +6,7 @@ image: assets/images/COVERECRUIT.png
 nav-menu: yes
 ---
 
+<!-- Banner -->
 <p align='center'><b>JEST:</b> Junior Enterprise for Science and Technology</p>
 <p align='justify'>JEST is the Junior Enterprise for Science and Technology – an organization which purpose lies in the understanding of interdisciplinary value and the commitment to ever evolving projects and ideas.</p>
 <p align="justify">Under the flag of data science progress - personal, professional and teambuilding wise – our organization sets both its starting line and its goals on its members, as well as any projects and entities that choose to get involved with JEST.</p>
