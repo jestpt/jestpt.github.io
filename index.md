@@ -2,9 +2,10 @@
 layout: home
 title: Home
 landing-title: Wild Cards Shufflers
-description:
-image:
-author:
+description: 
+image: 
+author: 
+nav-menu: 
 ---
 
 <!-- Banner -->
