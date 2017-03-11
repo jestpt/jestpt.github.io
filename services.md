@@ -1,9 +1,9 @@
----
+﻿---
 layout: landing
 title: Services
 landing-title: Services
 description: Cards on the table
-image: <img style="display:block;" width="100%" height="100%" src="assets/images/University_Coimbra.jpg" alt="" data-position="center" />
+image: assets/images/02.png
 nav-menu: yes
 ---
 
