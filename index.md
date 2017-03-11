@@ -2,6 +2,7 @@
 layout: home
 title: Home
 landing-title: Wild Cards Shufflers
+nav-menu: yes
 ---
 
 <!-- Banner -->
