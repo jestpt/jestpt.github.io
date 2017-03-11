@@ -1,9 +1,9 @@
 ﻿---
-layout: post
+layout: landing
 title: About
 landing-title:
 description: Meet Jest
-image: COVERECRUIT.png
+image: /assets/images/coverecruit.png
 author: 
 nav-menu: yes
 ---
