@@ -5,7 +5,7 @@ landing-title: Wild Cards Shufflers
 description: 
 image: 
 author: 
-nav-menu: yes
+nav-menu: 
 ---
 
 <!-- Banner -->
