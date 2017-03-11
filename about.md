@@ -3,7 +3,7 @@ layout: post
 title: About
 landing-title:
 description: Meet Jest
-image: assets/images/COVERECRUIT.png
+image: COVERECRUIT.png
 author: 
 nav-menu: yes
 ---
