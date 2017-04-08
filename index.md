@@ -5,7 +5,7 @@ landing-title: Wild Cards Shufflers
 description: 
 image: 
 author: 
-nav-menu: yes
+nav-menu: 
 ---
 
 <!-- Banner -->
@@ -15,7 +15,7 @@ nav-menu: yes
 			<!-- <h1>{{ page.landing-title }}</h1> -->
 			<img src="jestLogo.png" height = "256" style="display: block;margin: 0 auto;" />
 		</header>
-		<div class="content">
+		<div class="content" align='center'>
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 		</div>
 	</div>
