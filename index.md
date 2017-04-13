@@ -15,11 +15,8 @@ nav-menu:
 			<!-- <h1>{{ page.landing-title }}</h1> -->
 			<img src="jestLogo.png" height = "256" style="display: block;margin: 0 auto;" />
 		</header>
-		<div class="content">
+		<div class="content" align='center'>
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
-			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Get Started</a></li>
-			</ul>
 		</div>
 	</div>
 </section>
