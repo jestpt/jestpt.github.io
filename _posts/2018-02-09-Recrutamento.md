@@ -2,7 +2,7 @@
 layout: post
 title: Recruitment
 description: Recruitment
-image: assets/images/recrutamento.png
+image: assets/images/JESTISNOW.png
 ---
 **Application Starting at the 27<sup>th</sup> of February 2018**
 
