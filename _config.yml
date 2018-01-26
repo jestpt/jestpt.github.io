@@ -20,6 +20,7 @@ zip_code: 3000-406
 country: Portugal
 phone: +351 966 739 005
 
+
 # Plugins
 gems:
   - jekyll-redirect-from
