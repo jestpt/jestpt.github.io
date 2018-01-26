@@ -29,13 +29,11 @@ nav-menu: yes
 		</header>
 		<p align='justify'>
 			We are happy to announce that the recruitment season is now officially open!Our team has been working hard on improving jest but now it's time for new members to join and help us grow. You have until February the 9th to apply.
-		</p><br>
+		</p>
 		<p align='justify'>
 			Don't miss out on this opportunity!
 		</p>
-		<br>
-		<br>
-		[**Sign up now**](https://jestrecrutamento.typeform.com/to/o7sMmA)
+		<a href="https://jestrecrutamento.typeform.com/to/o7sMmA">Sign up now!</a>
 		<iframe title='Recrutamento' src="https://jestrecrutamento.typeform.com/to/o7sMmA" height="1000px" width="100%"></iframe>
 	</div>
 </section>
