@@ -15,7 +15,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Services</h1>
+			<h1>Recruitment</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
