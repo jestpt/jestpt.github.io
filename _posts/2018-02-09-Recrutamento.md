@@ -4,7 +4,7 @@ title: Recruitment
 description: Recruitment
 image: assets/images/JESTISNOW.png
 ---
-**Application Starting at the 27<sup>th</sup> of February 2018**
+**Application Starting at the 26<sup>th</sup> of February 2018**
 
 We are happy to announce that the recruitment season is now officially open!
 
