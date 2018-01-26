@@ -24,7 +24,7 @@ nav-menu: yes
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<header align='justify' class="major">
 			<h2>Application Starting at the 26<sup>th</sup> of February 2018</h2>
 		</header>
 		<p align='justify'>
