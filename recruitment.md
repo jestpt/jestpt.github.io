@@ -2,7 +2,7 @@
 layout: landing
 title: Recruitment
 landing-title: Recruitment
-image: <img style="display:block;" width="100%" height="100%" src="assets/images/fotodeperfil.png" alt="" data-position="center" />
+image: <img style="display:block;" width="100%" height="100%" src="assets/images/poster.png" alt="" data-position="center" />
 nav-menu: yes
 ---
 <meta http-equiv="X-FRAME-OPTIONS" content="ALLOW">
