@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Recrutamento
-description: Recrutamento
+title: Recruitment
+description: Recruitment
 image: assets/images/recrutamento.png
 ---
 **Application Starting at the 27th of February 2018**

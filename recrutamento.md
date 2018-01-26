@@ -2,8 +2,8 @@
 layout: landing
 title: Recruitment
 landing-title: Recruitment
-description: Recruitment
-image: assets/images/recrutamento.png
+image: <img style="display:block;" width="100%" height="100%" src="assets/images/recrutamento.png" alt="" data-position="center" /> 
+nav-menu: yes
 ---
 **Application Starting at the 27th of February 2018**
 
