@@ -6,7 +6,7 @@ image: assets/images/recrutamento.png
 ---
 **Application Starting at the 27th of February 2018**
 
-We are happy to announce that the recruitment season is now officially open! You have until February the 9th to apply.
+We are happy to announce that the recruitment season is now officially open!Our team has been working hard on improving jest but now it's time for new members to join and help us grow. You have until February the 9th to apply.
 
 Don't miss out on this opportunity!
 
