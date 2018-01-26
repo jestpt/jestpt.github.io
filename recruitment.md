@@ -25,10 +25,10 @@ nav-menu: yes
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Application Starting at the 27th of February 2018</h2>
+			<h2>Application Starting at the 26<sup>th</sup> of February 2018</h2>
 		</header>
 		<p align='justify'>
-			We are happy to announce that the recruitment season is now officially open!<p>Our team has been working hard on improving jest but now it's time for new members to join and help us grow.</p><p>You have until February the 9th to apply.</p>
+			We are happy to announce that the recruitment season is now officially open! Our team has been working hard on improving jest but now it's time for new members to join and help us grow. You have until February the 9<sup>th</sup> to apply.
 		</p>
 		<p align='justify'>
 			Don't miss out on this opportunity!
