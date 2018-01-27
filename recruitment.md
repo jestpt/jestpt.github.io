@@ -31,8 +31,8 @@ nav-menu: yes
 			We are happy to announce that the recruitment season is now officially open!<p>Our team has been working hard on improving JEST, but now it's time for new members to join and help us grow. You have until February the 9<sup>th</sup> to apply.</p>
 		</p>
 		<p align='justify'>
-			Don't miss out on this opportunity!
-			<a target="_blank" href="https://jestrecrutamento.typeform.com/to/o7sMmA">Sign up now!</a>
+			Don't miss out on this opportunity! To sign up 
+			<a target="_blank" href="https://jestrecrutamento.typeform.com/to/o7sMmA">click here!</a>
 		</p>	
 	</div>
 </section>
