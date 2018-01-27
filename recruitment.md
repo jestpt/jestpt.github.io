@@ -32,7 +32,7 @@ nav-menu: yes
 		</p>
 		<p align='justify'>
 			Don't miss out on this opportunity! To sign up 
-			<a target="_blank" href="https://jestrecrutamento.typeform.com/to/o7sMmA">click here!</a>
+			<a target="_blank" href="https://jestrecrutamento.typeform.com/to/o7sMmA"><b>click here!</b></a>
 		</p>	
 	</div>
 </section>
