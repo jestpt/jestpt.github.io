@@ -26,7 +26,7 @@ nav-menu: yes
 	<div class="inner">
 		<p align='justify'>
 			<header class="major">
-				<h2>Applications Starting at the 26<sup>th</sup> of February 2018</h2>
+				<h2>Applications Starting at the 26<sup>th</sup> of January 2018</h2>
 			</header>
 			We are happy to announce that the recruitment season is now officially open!<p>Our team has been working hard on improving JEST, but now it's time for new members to join and help us grow. You have until February the 9<sup>th</sup> to apply.</p>
 		</p>
