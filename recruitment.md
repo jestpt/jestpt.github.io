@@ -7,7 +7,9 @@ image:
 nav-menu: yes
 ---
 
-![ ](assets/gif/R19.gif)
+<p align="center">
+  <img width="600" height="600" src="assets/gif/R19.gif">
+</p>
 
 Junior Enterprise for Science and Technology is a junior enterprise composed only of FCTUC students with our core business in data science. We are always looking for new perspectives and great ambitions and if you think you can do it, feel free to show us what you got by submitting your application.
 Only with you will JEST continue to practice data science!
