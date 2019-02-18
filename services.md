@@ -7,21 +7,7 @@ image: <img style="display:block;" width="100%" height="100%" src="assets/images
 nav-menu: yes
 ---
 
-<!-- Banner -->
-<!-- Note: The "styleN" class below should match that of the header element. -->
-<section id="banner" class="style2">
-	<div class="inner">
-		<span class="image">
-			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
-		</span>
-		<header class="major">
-			<h1>Recruitment</h1>
-		</header>
-		<div class="content">
-			<p>{{ page.description }}</p>
-		</div>
-	</div>
-</section>
+
 
 <!-- Main -->
 <div id="main">
